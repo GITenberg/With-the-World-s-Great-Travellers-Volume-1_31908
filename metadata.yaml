@@ -1,0 +1,48 @@
+_repo: With-the-World-s-Great-Travellers-Volume-1_31908
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+  - agent_name: Leigh, Oliver Herbrand Gordon
+    alias: Leigh, Oliver H. G.
+    gutenberg_agent_id: '37847'
+    url: http://www.gutenberg.org/2009/agents/37847
+description: ''
+gutenberg_issued: '2010-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+tableOfContents: New Dependencies of the United States / Oliver H. G. Leigh -- Winter
+  and Summer in New England / Harriet Martineau -- Niagara Falls and the Thousand
+  Islands / Charles Morris -- From New York to Washington in 1866 / Henry Latham --
+  The Natural Bridge and Tunnel of Virginia / Edward A. Pollard -- Plantation Life
+  in War Times / William Howard Russell -- Among Florida Alligators / S. C. Clarke
+  -- In the Mammoth Cave / Thérèse Yelverton -- Down the Ohio and Mississippi / Thomas
+  L. Nichols -- From New Orleans to Red River / Frederick Law Olmsted -- Winter on
+  the Prairies / G. W. Featherstonhaugh -- A Hunter's Christmas Dinner / J. S. Campion
+  -- A Colorado "Round-Up" / Alfred Terry Bacon -- Among the Cow-boys / Louis C. Bradford
+  -- Hunting the Buffalo / Washington Irving -- In the Country of the Sioux / Meriwether
+  Lewis -- The Great Falls of the Missouri / William Clarke -- Hunting Scenes in Canadian
+  Woods / B. A. Watson -- The Grand Falls of Labrador / Henry G. Bryant -- Life Among
+  the Esquimaux / William Edward Parry -- Fugitives from the Arctic Seas / Elisha
+  Kent Kane -- Rescued from Death / W. S. Schley -- The Muir Glacier / Septima M.
+  Collis -- A Summer Trip to Alaska / James A. Harrison -- The Fort William Henry
+  Massacre / Jonathan Carver -- The Gaucho and His Horse / Thomas J. Hutchinson --
+  Valparaiso and Its Vicinity / Charles Darwin -- An Escape from Captivity / Benjamin
+  F. Bourne.
+title: With the World's Great Travellers, Volume 1
+url: http://www.gutenberg.org/ebooks/31908
